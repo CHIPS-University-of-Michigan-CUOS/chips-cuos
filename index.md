@@ -7,8 +7,7 @@ layout: default
 
 # Computational High Intensity Plasma Science
 
-Welcome to the CHIPS website. This research group is interested in all aspects of computational plasma physics for advanced accelerators, laser fusion, extreme astrophysics, high intensity laser and particle beams...
-
+- Welcome to the CHIPS website. This research group is interested in all aspects of computational plasma physics for advanced accelerators, laser fusion, extreme astrophysics, high intensity laser and particle beams...
 This website is very much a work in progress...
 ---
 
