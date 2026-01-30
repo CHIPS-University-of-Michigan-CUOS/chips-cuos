@@ -3,7 +3,7 @@ title: "CUOS-CHIPS"
 layout: default
 ---
 
-![Lab Group Photo](assets/images/team-photo.jpg)
+![Lab Group Photo](files/images/CHIPS2.png)
 
 # Computational High Intensity Plasma Science
 
