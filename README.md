@@ -1,3 +1,5 @@
+# Computational High Intensity Plasma Science
+
 ## Our Projects
 - [OSIRIS local dev fork](https://github.com/alecgrthomas/osiris)
 - [IMPACTA collisional electron transport](https://github.com/alecgrthomas/impacta)
