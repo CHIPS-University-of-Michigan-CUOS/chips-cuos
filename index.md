@@ -21,8 +21,9 @@ This website is very much a work in progress...
 - [EPOCH particle-in-cell code](https://github.com/epochpic/epoch)
 - [FLASH rad-hydro code](https://flash.rochester.edu/site/flashcode.html)
 
-## Analysis tools
+## Analysis tools and helper files
 - [PyVisOS local dev fork](https://github.com/alecgrthomas/pyVisOS)
+- [helper files](https://github.com/CHIPS-University-of-Michigan-CUOS/chips-cuos/tree/main/files/helper)
 
 ## Contact
 
